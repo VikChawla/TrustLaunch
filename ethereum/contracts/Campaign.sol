@@ -22,12 +22,6 @@ contract CampaignFactory {
 
 
 
-
-
-
-
-
-
 contract Campaign {
     
     struct Request {
@@ -63,6 +57,7 @@ contract Campaign {
         approvers[msg.sender] = true;
         approversCount++;
     }
+    
     
     function createRequest(string desc, uint val, address rec) public payable restricted 
     {
