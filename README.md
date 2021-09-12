@@ -10,21 +10,21 @@ Solution to prevent scams from happening when investing in very early stage star
 
 Startups can easily create a funding round and call upon early investors. 
 
-![](ImagesForReadMe/createFundingRound/.png)
+![](ImagesForReadMe/createFundingRound.png)
 
 Investors can see statistics of the startup/funding round and contribute if they would like
 
-![](ImagesForReadMe/newFundingRound/.png)
+![](ImagesForReadMe/newFundingRound.png)
 
 
 For a startup to move any of the funds of an investor, they must first create a request that displays the reason for using the funds, an address of the company, and the amount of Ether needed
 
 
-![](ImagesForReadMe/newRequest/.png)
+![](ImagesForReadMe/newRequest.png)
 
 Then if a majority of investors approve this movement of funds request, the funds are sent over to the address.
 
-![](ImagesForReadMe/openRequests/.png)
+![](ImagesForReadMe/openRequests.png)
 
 
 
