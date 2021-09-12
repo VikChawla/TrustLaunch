@@ -1,5 +1,5 @@
 
-<h3> TrustLaunch <h3>
+<h1> TrustLaunch </h1>
 
 
 Solution to prevent scams from happening when investing in very early stage startups. Several times, especially in kickstarter, startups take investors money and transfer it from their bank to spend on whatever they please. Many of these expenses are not related to continuing the growth of the company, and lead to the startup never producing what they were originally supposed to. This allows for every movement of funds that the investors have given, to be tracked and approved by the investors. 
